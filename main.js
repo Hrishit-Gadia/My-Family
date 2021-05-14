@@ -1,12 +1,12 @@
 var Names =
-    ["Me", "My Mother", "My Father", "My Brother","My GrandParents"];
+    ["Me", "My Mother", "My Father", "My Brother", "My GrandParents"];
 
 var Images =
-    ["http://127.0.0.1:5500/Me%20Clipart.png",
-        "http://127.0.0.1:5500/Mom%20Clipart.jpeg",
-        "http://127.0.0.1:5500/Dad%20Clipart.jpeg",
-        "http://127.0.0.1:5500/Brother%20Clipart.jpeg",
-        "http://127.0.0.1:5500/Grandparents.png"];
+    ["Me Clipart.png",
+        "Mom Clipart.jpeg",
+        "Dad Clipart.jpeg",
+        "Brother Clipart.jpeg",
+        "Grandparents.png",];
 
 var i = 0;
 function Update() {
